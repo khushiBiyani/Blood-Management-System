@@ -1,4 +1,12 @@
 FOR ALL HTTP REQUEST USE ` http://localhost:3001`
+
+## Pictures 
+<img width="598" alt="image" src="https://github.com/khushiBiyani/Blood-Management-System/assets/93194800/95a6577d-5bc7-450b-b793-0d21dffd5825">
+<img width="607" alt="image" src="https://github.com/khushiBiyani/Blood-Management-System/assets/93194800/8130dbca-13c6-47e1-bee2-2cd6bacdf9a9">
+<img width="609" alt="image" src="https://github.com/khushiBiyani/Blood-Management-System/assets/93194800/33bf76e4-8088-4512-8388-33df8a8f61cd">
+<img width="580" alt="image" src="https://github.com/khushiBiyani/Blood-Management-System/assets/93194800/137c4888-4f25-48b0-9d47-189c5a4796a2">
+
+
 ## Request to register donor - 
 ```
 {
